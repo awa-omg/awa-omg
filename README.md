@@ -95,15 +95,6 @@ Advanced language model development startup. Creator of **YuuKi RxG 8B**, an 8-b
 
 ---
 
-### Vexis
-**Vector Encrypted Xor Interference System** - Encryption system combining AI vector representations with quantization techniques. Integrates machine learning with cryptographic principles for a novel approach to data security.
-
----
-
-[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/VEX-IS)
-
----
-
 ### NHE
 **Not Humanity's Exam** - Specialized LLM benchmark measuring reasoning capabilities independent of learned human patterns. Evaluates model truthfulness and reasoning authenticity, ensuring outputs reflect genuine understanding rather than pattern memorization.
 
@@ -113,18 +104,13 @@ Advanced language model development startup. Creator of **YuuKi RxG 8B**, an 8-b
 
 ---
 
-### Gitsune
-Enhanced fork of Forgejo with improved user interface and expanded tooling capabilities. Optimized for developer experience with additional features and streamlined workflows for collaborative development.
-
----
-
 ### Flux
 Next-generation LLM training framework designed to overcome transformer limitations. Implements novel training methodologies to achieve superior model performance, efficiency, and scalability beyond traditional transformer-based approaches.
 
 ---
 
-### Japy
-JavaScript runtime and interpreter for embedding JavaScript functionality within other programming languages using decorator-based syntax. Execute real JavaScript logic alongside Python without WebAssembly overhead.
+##Doki
+
 
 ---
 
