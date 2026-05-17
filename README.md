@@ -96,6 +96,28 @@
 
 ---
 
+<h2 align="center" style="color: #f59e0b;">Contribution Graphs</h2>
+
+<br clear="both">
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/awa-omg/awa-omg/snake-output/snake.svg" alt="Snake animation" />
+</p>
+
+###
+
+<br clear="both">
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/awa-omg/awa-omg/pacman-output/puzzle-bobble-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/awa-omg/awa-omg/pacman-output/puzzle-bobble-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/awa-omg/awa-omg/pacman-output/puzzle-bobble-contribution-graph.svg">
+  </picture>
+</p>
+
+---
+
 <h2 align="center" style="color: #ec4899;">Now Vibing</h2>
 
 <table align="center" width="60%">
