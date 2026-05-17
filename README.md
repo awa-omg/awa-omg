@@ -101,32 +101,24 @@
 <table align="center" width="100%">
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=awa-omg&show_icons=true&theme=transparent&title_color=7c3aed&text_color=ffffff&icon_color=ec4899&bg_color=0,0d1117,161b22&hide_border=true&count_private=true&include_all_commits=true&custom_title=GitHub+Stats" alt="stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=awa-omg&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="stats" />
     </td>
     <td align="center" width="50%">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=awa-omg&theme=dark&fire=ec4899&ring=7c3aed&sideLabels=06b6d4&dates=f59e0b&stroke=7c3aed&background=0d111700&hide_border=true" alt="streak" />
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=awa-omg&theme=tokyonight&hide_border=true" alt="streak" />
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=awa-omg&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10&column=7&title=MultiStars,Commit,Repo,Followers,PullRequest,Issue,Review" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=awa-omg&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10&column=7" alt="trophies" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=awa-omg&theme=react-dark&color=7c3aed&title_color=ec4899&bg_color=0d111700&hide_border=true&area=true&area_color=7c3aed" alt="activity" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=awa-omg&theme=tokyonight&hide_border=true" alt="activity" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=awa-omg&layout=compact&theme=transparent&title_color=7c3aed&text_color=ffffff&bg_color=0d111700&hide_border=true&langs_count=8" alt="top langs" />
-</p>
-
----
-
-<h2 align="center" style="color: #7c3aed;">WakaTime Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=awa-omg&theme=transparent&title_color=7c3aed&text_color=ffffff&bg_color=0d111700&hide_border=true&layout=compact" alt="wakatime" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=awa-omg&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs" />
 </p>
 
 ---
