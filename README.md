@@ -96,33 +96,6 @@
 
 ---
 
-<h2 align="center" style="color: #f59e0b;">Activity & Stats</h2>
-
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=awa-omg&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="stats" />
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=awa-omg&theme=tokyonight&hide_border=true" alt="streak" />
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=awa-omg&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10&column=7" alt="trophies" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=awa-omg&theme=tokyonight&hide_border=true" alt="activity" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=awa-omg&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs" />
-</p>
-
----
-
 <h2 align="center" style="color: #ec4899;">Now Vibing</h2>
 
 <table align="center" width="60%">
