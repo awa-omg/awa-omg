@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=awa-omg.awa-omg&left_color=%237c3aed&right_color=%23ec4899" alt="visitors" />
+  <a href="https://visitcount.itsvg.in"><img src="https://komarev.com/ghpvc/?username=awa-omg&icon=0&color=7c3aed" alt="profile views" /></a>
   <img src="https://img.shields.io/badge/Mexico-es--MX-06b6d4?style=for-the-badge" alt="Mexico" />
   <img src="https://img.shields.io/badge/Status-Active-10b981?style=for-the-badge" alt="Status" />
   <img src="https://img.shields.io/badge/Open%20to-Collaboration-7c3aed?style=for-the-badge" alt="Collab" />
@@ -64,28 +64,66 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient:7c3aed,ec4899,06b6d4,f59e0b&section=header&reversal=false" alt="divider" />
 </p>
 
-<h2 align="center" style="color: #ec4899;">GitHub Statistics</h2>
+<h2 align="center" style="color: #ec4899;">Organizations</h2>
 
-<table align="center" width="100%">
+<table align="center" width="80%">
   <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=awa-omg&theme=dark&fire=7c3aed&ring=ec4899&background=0D1117&border=7c3aed&currStreakLabel=06b6d4&sideNums=ec4899&sideLabels=f59e0b&dates=94a3b8" alt="streak stats" width="100%" />
+    <td align="center" style="border: 2px solid #7c3aed; border-radius: 16px; padding: 20px; background: linear-gradient(135deg, rgba(124, 58, 237, 0.08), rgba(124, 58, 237, 0.02));">
+      <a href="https://github.com/OpceanAI">
+        <img src="https://github.com/OpceanAI.png" width="80" style="border-radius: 50%; border: 2px solid #7c3aed; box-shadow: 0 0 15px rgba(124, 58, 237, 0.4);" alt="OpceanAI" />
+      </a>
+      <h3 style="color: #7c3aed; margin: 12px 0 8px;">OpceanAI</h3>
+      <p style="color: #94a3b8; font-size: 14px; margin: 0 0 12px;">AI & Machine Learning Organization</p>
+      <p style="margin: 0;">
+        <img src="https://img.shields.io/badge/Repos-7-7c3aed?style=flat-square" alt="Repos" />
+        <img src="https://img.shields.io/badge/Followers-3-ec4899?style=flat-square" alt="Followers" />
+      </p>
+      <a href="https://github.com/OpceanAI"><img src="https://img.shields.io/badge/View-Organization-181717?style=flat-square&logo=github" alt="View" /></a>
     </td>
-    <td align="center" width="50%">
-      <img src="https://github-profile-trophy.vercel.app/?username=awa-omg&theme=radical&column=4&row=2&margin-w=15&margin-h=15" alt="profile trophy" width="100%" />
+    <td align="center" style="border: 2px solid #ec4899; border-radius: 16px; padding: 20px; background: linear-gradient(135deg, rgba(236, 72, 153, 0.08), rgba(236, 72, 153, 0.02));">
+      <a href="https://github.com/YuuKi-OS">
+        <img src="https://github.com/YuuKi-OS.png" width="80" style="border-radius: 50%; border: 2px solid #ec4899; box-shadow: 0 0 15px rgba(236, 72, 153, 0.4);" alt="YuuKi-OS" />
+      </a>
+      <h3 style="color: #ec4899; margin: 12px 0 8px;">YuuKi-OS</h3>
+      <p style="color: #94a3b8; font-size: 14px; margin: 0 0 12px;">Operating Systems & Tools</p>
+      <p style="margin: 0;">
+        <img src="https://img.shields.io/badge/Repos-3-ec4899?style=flat-square" alt="Repos" />
+        <img src="https://img.shields.io/badge/Followers-3-7c3aed?style=flat-square" alt="Followers" />
+      </p>
+      <a href="https://github.com/YuuKi-OS"><img src="https://img.shields.io/badge/View-Organization-181717?style=flat-square&logo=github" alt="View" /></a>
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=awa-omg&theme=react-dark&color=7c3aed&line=ec4899&point=06b6d4&area=true&hide_border=true" alt="activity graph" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient:7c3aed,ec4899,06b6d4,f59e0b&section=header&reversal=false" alt="divider" />
+</p>
+
+<h2 align="center" style="color: #06b6d4;">GitHub Statistics</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=awa-omg&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true" alt="github stats" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=awa-omg&theme=tokyonight&hide_border=false" alt="streak stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=awa-omg&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="top languages" />
+</p>
+
+<h3 align="center" style="color: #ec4899;">Trophies</h3>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=awa-omg&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="trophies" width="100%" />
 </p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient:7c3aed,ec4899,06b6d4,f59e0b&section=header&reversal=false" alt="divider" />
 </p>
 
-<h2 align="center" style="color: #06b6d4;">Currently Building</h2>
+<h2 align="center" style="color: #7c3aed;">Currently Building</h2>
 
 <table align="center" width="90%">
   <tr>
@@ -126,7 +164,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient:7c3aed,ec4899,06b6d4,f59e0b&section=header&reversal=false" alt="divider" />
 </p>
 
-<h2 align="center" style="color: #7c3aed;">Core Specializations</h2>
+<h2 align="center" style="color: #ec4899;">Core Specializations</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Large+Language+Models-7c3aed?style=for-the-badge&logo=openai&logoColor=white" alt="LLM" />
@@ -140,7 +178,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient:7c3aed,ec4899,06b6d4,f59e0b&section=header&reversal=false" alt="divider" />
 </p>
 
-<h2 align="center" style="color: #ec4899;">Technical Stack</h2>
+<h2 align="center" style="color: #06b6d4;">Technical Stack</h2>
 
 <p align="center">
   <img src="awa_langs.png" alt="languages banner" width="75%" />
