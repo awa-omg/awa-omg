@@ -64,42 +64,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient:7c3aed,ec4899,06b6d4,f59e0b&section=header&reversal=false" alt="divider" />
 </p>
 
-<h2 align="center" style="color: #ec4899;">Organizations</h2>
-
-<table align="center" width="80%">
-  <tr>
-    <td align="center" style="border: 2px solid #7c3aed; border-radius: 16px; padding: 20px; background: linear-gradient(135deg, rgba(124, 58, 237, 0.08), rgba(124, 58, 237, 0.02));">
-      <a href="https://github.com/OpceanAI">
-        <img src="https://github.com/OpceanAI.png" width="80" style="border-radius: 50%; border: 2px solid #7c3aed; box-shadow: 0 0 15px rgba(124, 58, 237, 0.4);" alt="OpceanAI" />
-      </a>
-      <h3 style="color: #7c3aed; margin: 12px 0 8px;">OpceanAI</h3>
-      <p style="color: #94a3b8; font-size: 14px; margin: 0 0 12px;">AI & Machine Learning Organization</p>
-      <p style="margin: 0;">
-        <img src="https://img.shields.io/badge/Repos-7-7c3aed?style=flat-square" alt="Repos" />
-        <img src="https://img.shields.io/badge/Followers-3-ec4899?style=flat-square" alt="Followers" />
-      </p>
-      <a href="https://github.com/OpceanAI"><img src="https://img.shields.io/badge/View-Organization-181717?style=flat-square&logo=github" alt="View" /></a>
-    </td>
-    <td align="center" style="border: 2px solid #ec4899; border-radius: 16px; padding: 20px; background: linear-gradient(135deg, rgba(236, 72, 153, 0.08), rgba(236, 72, 153, 0.02));">
-      <a href="https://github.com/YuuKi-OS">
-        <img src="https://github.com/YuuKi-OS.png" width="80" style="border-radius: 50%; border: 2px solid #ec4899; box-shadow: 0 0 15px rgba(236, 72, 153, 0.4);" alt="YuuKi-OS" />
-      </a>
-      <h3 style="color: #ec4899; margin: 12px 0 8px;">YuuKi-OS</h3>
-      <p style="color: #94a3b8; font-size: 14px; margin: 0 0 12px;">Operating Systems & Tools</p>
-      <p style="margin: 0;">
-        <img src="https://img.shields.io/badge/Repos-3-ec4899?style=flat-square" alt="Repos" />
-        <img src="https://img.shields.io/badge/Followers-3-7c3aed?style=flat-square" alt="Followers" />
-      </p>
-      <a href="https://github.com/YuuKi-OS"><img src="https://img.shields.io/badge/View-Organization-181717?style=flat-square&logo=github" alt="View" /></a>
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient:7c3aed,ec4899,06b6d4,f59e0b&section=header&reversal=false" alt="divider" />
-</p>
-
-<h2 align="center" style="color: #06b6d4;">GitHub Statistics</h2>
+<h2 align="center" style="color: #ec4899;">GitHub Statistics</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=awa-omg&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true" alt="github stats" />
@@ -118,6 +83,194 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=awa-omg&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="trophies" width="100%" />
 </p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient:7c3aed,ec4899,06b6d4,f59e0b&section=header&reversal=false" alt="divider" />
+</p>
+
+<h2 align="center" style="color: #06b6d4;">Pinned Repositories</h2>
+
+<table align="center" width="95%">
+  <tr>
+    <td width="33%" style="padding: 14px; border: 2px solid #7c3aed; border-radius: 14px; background: linear-gradient(135deg, rgba(124, 58, 237, 0.1), rgba(124, 58, 237, 0.02));">
+      <h3 style="color: #7c3aed; margin-top: 0; margin-bottom: 8px;">
+        <img src="https://img.shields.io/badge/PIN-7c3aed?style=flat-square" alt="Pinned" /> Koesu
+      </h3>
+      <p style="color: #94a3b8; font-size: 13px; margin-bottom: 12px;">Discord music bot with Dave and Lavalink support</p>
+      <p style="margin-bottom: 10px;">
+        <img src="https://img.shields.io/badge/Makefile-7c3aed?style=flat-square" alt="Makefile" />
+        <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" alt="License" />
+      </p>
+      <a href="https://github.com/awa-omg/Koesu"><img src="https://img.shields.io/badge/View-Repository-181717?style=flat-square&logo=github" alt="View" /></a>
+    </td>
+    <td width="33%" style="padding: 14px; border: 2px solid #ec4899; border-radius: 14px; background: linear-gradient(135deg, rgba(236, 72, 153, 0.1), rgba(236, 72, 153, 0.02));">
+      <h3 style="color: #ec4899; margin-top: 0; margin-bottom: 8px;">
+        <img src="https://img.shields.io/badge/PIN-ec4899?style=flat-square" alt="Pinned" /> aguita.site
+      </h3>
+      <p style="color: #94a3b8; font-size: 13px; margin-bottom: 12px;">Personal website and portfolio</p>
+      <p style="margin-bottom: 10px;">
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+      </p>
+      <a href="https://github.com/awa-omg/aguita.site"><img src="https://img.shields.io/badge/View-Repository-181717?style=flat-square&logo=github" alt="View" /></a>
+    </td>
+    <td width="33%" style="padding: 14px; border: 2px solid #06b6d4; border-radius: 14px; background: linear-gradient(135deg, rgba(6, 182, 212, 0.1), rgba(6, 182, 212, 0.02));">
+      <h3 style="color: #06b6d4; margin-top: 0; margin-bottom: 8px;">
+        <img src="https://img.shields.io/badge/PIN-06b6d4?style=flat-square" alt="Pinned" /> bad-apple-git
+      </h3>
+      <p style="color: #94a3b8; font-size: 13px; margin-bottom: 12px;">Bad Apple in git commit history</p>
+      <p style="margin-bottom: 10px;">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" alt="License" />
+      </p>
+      <a href="https://github.com/awa-omg/bad-apple-git"><img src="https://img.shields.io/badge/View-Repository-181717?style=flat-square&logo=github" alt="View" /></a>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient:7c3aed,ec4899,06b6d4,f59e0b&section=header&reversal=false" alt="divider" />
+</p>
+
+<h2 align="center" style="color: #7c3aed;">Organizations</h2>
+
+<table align="center" width="80%">
+  <tr>
+    <td align="center" style="border: 2px solid #7c3aed; border-radius: 16px; padding: 20px; background: linear-gradient(135deg, rgba(124, 58, 237, 0.08), rgba(124, 58, 237, 0.02));">
+      <a href="https://github.com/OpceanAI">
+        <img src="https://github.com/OpceanAI.png" width="80" style="border-radius: 50%; border: 2px solid #7c3aed; box-shadow: 0 0 15px rgba(124, 58, 237, 0.4);" alt="OpceanAI" />
+      </a>
+      <h3 style="color: #7c3aed; margin: 12px 0 8px;">OpceanAI</h3>
+      <p style="color: #94a3b8; font-size: 14px; margin: 0 0 12px;">AI & Machine Learning Organization</p>
+      <p style="margin: 0 0 12px;">
+        <img src="https://img.shields.io/badge/Repos-7-7c3aed?style=flat-square" alt="Repos" />
+        <img src="https://img.shields.io/badge/Followers-3-ec4899?style=flat-square" alt="Followers" />
+      </p>
+      <a href="https://github.com/OpceanAI"><img src="https://img.shields.io/badge/View-Organization-181717?style=flat-square&logo=github" alt="View" /></a>
+    </td>
+    <td align="center" style="border: 2px solid #ec4899; border-radius: 16px; padding: 20px; background: linear-gradient(135deg, rgba(236, 72, 153, 0.08), rgba(236, 72, 153, 0.02));">
+      <a href="https://github.com/YuuKi-OS">
+        <img src="https://github.com/YuuKi-OS.png" width="80" style="border-radius: 50%; border: 2px solid #ec4899; box-shadow: 0 0 15px rgba(236, 72, 153, 0.4);" alt="YuuKi-OS" />
+      </a>
+      <h3 style="color: #ec4899; margin: 12px 0 8px;">YuuKi-OS</h3>
+      <p style="color: #94a3b8; font-size: 14px; margin: 0 0 12px;">Operating Systems & Tools</p>
+      <p style="margin: 0 0 12px;">
+        <img src="https://img.shields.io/badge/Repos-3-ec4899?style=flat-square" alt="Repos" />
+        <img src="https://img.shields.io/badge/Followers-3-7c3aed?style=flat-square" alt="Followers" />
+      </p>
+      <a href="https://github.com/YuuKi-OS"><img src="https://img.shields.io/badge/View-Organization-181717?style=flat-square&logo=github" alt="View" /></a>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient:7c3aed,ec4899,06b6d4,f59e0b&section=header&reversal=false" alt="divider" />
+</p>
+
+<h2 align="center" style="color: #06b6d4;">OpceanAI Repositories</h2>
+
+<table align="center" width="95%">
+  <tr>
+    <td width="50%" style="padding: 14px; border: 1px solid #7c3aed; border-radius: 14px; background: linear-gradient(135deg, rgba(124, 58, 237, 0.06), rgba(124, 58, 237, 0.02));">
+      <h3 style="color: #7c3aed; margin-top: 0; margin-bottom: 8px;">
+        <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
+        <img src="https://img.shields.io/badge/Stars-19-f59e0b?style=flat-square" alt="Stars" />
+        Doki
+      </h3>
+      <p style="color: #94a3b8; font-size: 13px; margin-bottom: 12px;">Universal containers, zero friction. Docker & Podman compatible. Rootless. Runs anywhere.</p>
+      <p style="margin-bottom: 10px;">
+        <img src="https://img.shields.io/badge/License-Apache--2.0-green?style=flat-square" alt="License" />
+      </p>
+      <a href="https://github.com/OpceanAI/Doki"><img src="https://img.shields.io/badge/View-Repository-181717?style=flat-square&logo=github" alt="View" /></a>
+    </td>
+    <td width="50%" style="padding: 14px; border: 1px solid #ec4899; border-radius: 14px; background: linear-gradient(135deg, rgba(236, 72, 153, 0.06), rgba(236, 72, 153, 0.02));">
+      <h3 style="color: #ec4899; margin-top: 0; margin-bottom: 8px;">
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        Doki-web
+      </h3>
+      <p style="color: #94a3b8; font-size: 13px; margin-bottom: 12px;">Official website for Doki. Next.js 16 + React 19 + Tailwind CSS 4 landing page.</p>
+      <p style="margin-bottom: 10px;">
+        <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" alt="License" />
+      </p>
+      <a href="https://github.com/OpceanAI/Doki-web"><img src="https://img.shields.io/badge/View-Repository-181717?style=flat-square&logo=github" alt="View" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" style="padding: 14px; border: 1px solid #06b6d4; border-radius: 14px; background: linear-gradient(135deg, rgba(6, 182, 212, 0.06), rgba(6, 182, 212, 0.02));">
+      <h3 style="color: #06b6d4; margin-top: 0; margin-bottom: 8px;">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        openllava
+      </h3>
+      <p style="color: #94a3b8; font-size: 13px; margin-bottom: 12px;">Inject vision into any language model — CUDA, ROCm, TPU, MLX, XPU and CPU. Train, serve, export.</p>
+      <p style="margin-bottom: 10px;">
+        <img src="https://img.shields.io/badge/License-Apache--2.0-green?style=flat-square" alt="License" />
+      </p>
+      <a href="https://github.com/OpceanAI/openllava"><img src="https://img.shields.io/badge/View-Repository-181717?style=flat-square&logo=github" alt="View" /></a>
+    </td>
+    <td width="50%" style="padding: 14px; border: 1px solid #f59e0b; border-radius: 14px; background: linear-gradient(135deg, rgba(245, 158, 11, 0.06), rgba(245, 158, 11, 0.02));">
+      <h3 style="color: #f59e0b; margin-top: 0; margin-bottom: 8px;">
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        Shadow
+      </h3>
+      <p style="color: #94a3b8; font-size: 13px; margin-bottom: 12px;">Local-first CLI that reads, traces, tests, and explains code. Turns confusion into clarity without sending bytes to the cloud.</p>
+      <p style="margin-bottom: 10px;">
+        <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" alt="License" />
+      </p>
+      <a href="https://github.com/OpceanAI/Shadow"><img src="https://img.shields.io/badge/View-Repository-181717?style=flat-square&logo=github" alt="View" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" style="padding: 14px; border: 1px solid #10b981; border-radius: 14px; background: linear-gradient(135deg, rgba(16, 185, 129, 0.06), rgba(16, 185, 129, 0.02));">
+      <h3 style="color: #10b981; margin-top: 0; margin-bottom: 8px;">
+        <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" alt="C" />
+        Doki-proot
+      </h3>
+      <p style="color: #94a3b8; font-size: 13px; margin-bottom: 12px;">PRoot implementation for Doki container engine.</p>
+      <a href="https://github.com/OpceanAI/Doki-proot"><img src="https://img.shields.io/badge/View-Repository-181717?style=flat-square&logo=github" alt="View" /></a>
+    </td>
+    <td width="50%" style="padding: 14px; border: 1px solid #7c3aed; border-radius: 14px; background: linear-gradient(135deg, rgba(124, 58, 237, 0.06), rgba(124, 58, 237, 0.02));">
+      <h3 style="color: #7c3aed; margin-top: 0; margin-bottom: 8px;">
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        opceanai
+      </h3>
+      <p style="color: #94a3b8; font-size: 13px; margin-bottom: 12px;">OpceanAI organization profile and resources.</p>
+      <a href="https://github.com/OpceanAI/opceanai"><img src="https://img.shields.io/badge/View-Repository-181717?style=flat-square&logo=github" alt="View" /></a>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient:7c3aed,ec4899,06b6d4,f59e0b&section=header&reversal=false" alt="divider" />
+</p>
+
+<h2 align="center" style="color: #ec4899;">YuuKi-OS Repositories</h2>
+
+<table align="center" width="95%">
+  <tr>
+    <td width="50%" style="padding: 14px; border: 1px solid #ec4899; border-radius: 14px; background: linear-gradient(135deg, rgba(236, 72, 153, 0.06), rgba(236, 72, 153, 0.02));">
+      <h3 style="color: #ec4899; margin-top: 0; margin-bottom: 8px;">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/Stars-1-f59e0b?style=flat-square" alt="Stars" />
+        yuuki-training
+      </h3>
+      <p style="color: #94a3b8; font-size: 13px; margin-bottom: 12px;">Training and experimentation code for Yuuki-82M, a small language model trained from scratch with a mobile-first, resource-aware approach.</p>
+      <p style="margin-bottom: 10px;">
+        <img src="https://img.shields.io/badge/ML-Model-7c3aed?style=flat-square" alt="ML" />
+      </p>
+      <a href="https://github.com/YuuKi-OS/yuuki-training"><img src="https://img.shields.io/badge/View-Repository-181717?style=flat-square&logo=github" alt="View" /></a>
+    </td>
+    <td width="50%" style="padding: 14px; border: 1px solid #06b6d4; border-radius: 14px; background: linear-gradient(135deg, rgba(6, 182, 212, 0.06), rgba(6, 182, 212, 0.02));">
+      <h3 style="color: #06b6d4; margin-top: 0; margin-bottom: 8px;">
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        Yuuki-wev
+      </h3>
+      <p style="color: #94a3b8; font-size: 13px; margin-bottom: 12px;">Yuuki web interface and tools.</p>
+      <p style="margin-bottom: 10px;">
+        <img src="https://img.shields.io/badge/License-Apache--2.0-green?style=flat-square" alt="License" />
+      </p>
+      <a href="https://github.com/YuuKi-OS/Yuuki-wev"><img src="https://img.shields.io/badge/View-Repository-181717?style=flat-square&logo=github" alt="View" /></a>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient:7c3aed,ec4899,06b6d4,f59e0b&section=header&reversal=false" alt="divider" />
@@ -226,70 +379,45 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient:7c3aed,ec4899,06b6d4,f59e0b&section=header&reversal=false" alt="divider" />
 </p>
 
-<h2 align="center" style="color: #f59e0b;">Featured Projects</h2>
+<h2 align="center" style="color: #f59e0b;">Other Projects</h2>
 
 <table align="center" width="95%">
   <tr>
-    <td width="50%" style="padding: 14px; border: 1px solid #7c3aed; border-radius: 14px; background: linear-gradient(135deg, rgba(124, 58, 237, 0.06), rgba(124, 58, 237, 0.02));">
-      <h3 style="color: #7c3aed; margin-top: 0; margin-bottom: 8px;">Koesu</h3>
-      <p style="color: #94a3b8; font-size: 14px; margin-bottom: 12px;">Discord music bot with Dave and Lavalink support. High-quality audio streaming with advanced queue management.</p>
-      <p style="margin-bottom: 12px;">
-        <img src="https://img.shields.io/badge/Makefile-7c3aed?style=flat-square" alt="Makefile" />
-        <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" alt="License" />
-        <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" />
-      </p>
-      <a href="https://github.com/awa-omg/Koesu"><img src="https://img.shields.io/badge/View-Repository-181717?style=flat-square&logo=github" alt="View" /></a>
-    </td>
-    <td width="50%" style="padding: 14px; border: 1px solid #ec4899; border-radius: 14px; background: linear-gradient(135deg, rgba(236, 72, 153, 0.06), rgba(236, 72, 153, 0.02));">
-      <h3 style="color: #ec4899; margin-top: 0; margin-bottom: 8px;">aguita.site</h3>
-      <p style="color: #94a3b8; font-size: 14px; margin-bottom: 12px;">Personal website and portfolio. Modern design with responsive layout and smooth interactions.</p>
-      <p style="margin-bottom: 12px;">
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/Web-Frontend-06b6d4?style=flat-square" alt="Web" />
-      </p>
-      <a href="https://github.com/awa-omg/aguita.site"><img src="https://img.shields.io/badge/View-Repository-181717?style=flat-square&logo=github" alt="View" /></a>
-    </td>
-  </tr>
-  <tr>
     <td width="50%" style="padding: 14px; border: 1px solid #06b6d4; border-radius: 14px; background: linear-gradient(135deg, rgba(6, 182, 212, 0.06), rgba(6, 182, 212, 0.02));">
-      <h3 style="color: #06b6d4; margin-top: 0; margin-bottom: 8px;">bad-apple-git</h3>
-      <p style="color: #94a3b8; font-size: 14px; margin-bottom: 12px;">Bad Apple rendered in git commit history. Creative visualization using ASCII art across commits.</p>
-      <p style="margin-bottom: 12px;">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" alt="License" />
-        <img src="https://img.shields.io/badge/Creative-Project-ec4899?style=flat-square" alt="Creative" />
-      </p>
-      <a href="https://github.com/awa-omg/bad-apple-git"><img src="https://img.shields.io/badge/View-Repository-181717?style=flat-square&logo=github" alt="View" /></a>
-    </td>
-    <td width="50%" style="padding: 14px; border: 1px solid #f59e0b; border-radius: 14px; background: linear-gradient(135deg, rgba(245, 158, 11, 0.06), rgba(245, 158, 11, 0.02));">
-      <h3 style="color: #f59e0b; margin-top: 0; margin-bottom: 8px;">bad-apple-tcp</h3>
+      <h3 style="color: #06b6d4; margin-top: 0; margin-bottom: 8px;">bad-apple-tcp</h3>
       <p style="color: #94a3b8; font-size: 14px; margin-bottom: 12px;">Bad Apple terminal rendering over TCP. Real-time ASCII animation streaming via network sockets.</p>
       <p style="margin-bottom: 12px;">
         <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" alt="C" />
         <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" alt="License" />
-        <img src="https://img.shields.io/badge/Network-TCP-7c3aed?style=flat-square" alt="TCP" />
       </p>
       <a href="https://github.com/awa-omg/bad-apple-tcp"><img src="https://img.shields.io/badge/View-Repository-181717?style=flat-square&logo=github" alt="View" /></a>
     </td>
-  </tr>
-  <tr>
     <td width="50%" style="padding: 14px; border: 1px solid #10b981; border-radius: 14px; background: linear-gradient(135deg, rgba(16, 185, 129, 0.06), rgba(16, 185, 129, 0.02));">
       <h3 style="color: #10b981; margin-top: 0; margin-bottom: 8px;">Doki-wiki</h3>
       <p style="color: #94a3b8; font-size: 14px; margin-bottom: 12px;">Doki container engine wiki documentation. Comprehensive guides and API references.</p>
       <p style="margin-bottom: 12px;">
         <img src="https://img.shields.io/badge/Documentation-7c3aed?style=flat-square" alt="Docs" />
-        <img src="https://img.shields.io/badge/Container-Engine-06b6d4?style=flat-square" alt="Container" />
       </p>
       <a href="https://github.com/awa-omg/Doki-wiki"><img src="https://img.shields.io/badge/View-Repository-181717?style=flat-square&logo=github" alt="View" /></a>
     </td>
+  </tr>
+  <tr>
     <td width="50%" style="padding: 14px; border: 1px solid #7c3aed; border-radius: 14px; background: linear-gradient(135deg, rgba(124, 58, 237, 0.06), rgba(124, 58, 237, 0.02));">
       <h3 style="color: #7c3aed; margin-top: 0; margin-bottom: 8px;">vulkan-apple</h3>
       <p style="color: #94a3b8; font-size: 14px; margin-bottom: 12px;">Vulkan graphics experiments. Low-level rendering and GPU compute exploration.</p>
       <p style="margin-bottom: 12px;">
         <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c++&logoColor=white" alt="C++" />
-        <img src="https://img.shields.io/badge/Vulkan-Graphics-ec4899?style=flat-square" alt="Vulkan" />
       </p>
       <a href="https://github.com/awa-omg/vulkan-apple"><img src="https://img.shields.io/badge/View-Repository-181717?style=flat-square&logo=github" alt="View" /></a>
+    </td>
+    <td width="50%" style="padding: 14px; border: 1px solid #ec4899; border-radius: 14px; background: linear-gradient(135deg, rgba(236, 72, 153, 0.06), rgba(236, 72, 153, 0.02));">
+      <h3 style="color: #ec4899; margin-top: 0; margin-bottom: 8px;">Yuuki-web</h3>
+      <p style="color: #94a3b8; font-size: 14px; margin-bottom: 12px;">Yuuki web interface project.</p>
+      <p style="margin-bottom: 12px;">
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" alt="License" />
+      </p>
+      <a href="https://github.com/awa-omg/Yuuki-web"><img src="https://img.shields.io/badge/View-Repository-181717?style=flat-square&logo=github" alt="View" /></a>
     </td>
   </tr>
 </table>
