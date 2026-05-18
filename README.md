@@ -299,10 +299,6 @@
   <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="built with love" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-quotes.vercel.app/api?theme=dark&quote=Code%20is%20poetry.%20Logic%20is%20art.&layout=b" alt="quote" />
-</p>
-
 <p align="center" style="color: #7c3aed; font-size: 13px; margin-top: 24px; letter-spacing: 2px; text-transform: uppercase;">
   Designed with precision. Powered by passion.
 </p>
