@@ -25,52 +25,85 @@
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=awa-omg.awa-omg&left_color=%237c3aed&right_color=%23ec4899" alt="visitors" />
   <img src="https://img.shields.io/badge/Mexico-es--MX-06b6d4?style=for-the-badge" alt="Mexico" />
+  <img src="https://img.shields.io/badge/Status-Active-10b981?style=for-the-badge" alt="Status" />
 </p>
 
----
+![divider](https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient:7c3aed,ec4899,06b6d4,f59e0b&section=header&reversal=false)
 
 <h2 align="center" style="color: #7c3aed;">About Me</h2>
 
-<p align="center" style="font-size: 16px; line-height: 1.8;">
-  Full-stack developer and ML engineer based in Mexico.<br>
-  Passionate about building scalable applications, advanced AI systems, and next-generation machine learning models.<br>
-  Currently focused on developing efficient LLM architectures, cryptographic systems, and AI benchmarking tools.
-</p>
+<blockquote style="border-left: 4px solid #7c3aed; background: linear-gradient(135deg, rgba(124, 58, 237, 0.05), rgba(236, 72, 153, 0.05)); padding: 20px; border-radius: 8px;">
+  <p style="font-size: 16px; line-height: 1.8; color: #e2e8f0;">
+    Full-stack developer and ML engineer based in Mexico.<br>
+    Passionate about building scalable applications, advanced AI systems, and next-generation machine learning models.<br>
+    Currently focused on developing efficient LLM architectures, cryptographic systems, and AI benchmarking tools.
+  </p>
+</blockquote>
 
-<table align="center" width="80%">
+<table align="center" width="85%">
   <tr>
-    <td align="center" style="border: 1px solid #7c3aed; border-radius: 10px; padding: 15px;">
+    <td align="center" style="border: 1px solid #7c3aed; border-radius: 10px; padding: 15px; background: rgba(124, 58, 237, 0.05);">
       <strong style="color: #06b6d4;">Hardware</strong><br />
       <span style="color: #ffffff;">Snapdragon 685, 8GB RAM</span>
     </td>
-    <td align="center" style="border: 1px solid #ec4899; border-radius: 10px; padding: 15px;">
+    <td align="center" style="border: 1px solid #ec4899; border-radius: 10px; padding: 15px; background: rgba(236, 72, 153, 0.05);">
       <strong style="color: #f59e0b;">Operating Systems</strong><br />
       <span style="color: #ffffff;">Artix, Arch Linux, Debian, Fedora</span>
+    </td>
+    <td align="center" style="border: 1px solid #06b6d4; border-radius: 10px; padding: 15px; background: rgba(6, 182, 212, 0.05);">
+      <strong style="color: #10b981;">Focus Areas</strong><br />
+      <span style="color: #ffffff;">LLMs, Crypto, AI Systems</span>
     </td>
   </tr>
 </table>
 
----
+![divider](https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient:7c3aed,ec4899,06b6d4,f59e0b&section=header&reversal=false)
 
-<h2 align="center" style="color: #ec4899;">Core Specializations</h2>
+<h2 align="center" style="color: #ec4899;">GitHub Statistics</h2>
+
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=awa-omg&theme=dark&fire=7c3aed&ring=ec4899&background=0D1117&border=7c3aed" alt="streak stats" width="100%" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-profile-trophy.vercel.app/?username=awa-omg&theme=radical&column=4&row=2&margin-w=15&margin-h=15" alt="profile trophy" width="100%" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Large+Language+Models-7c3aed?style=for-the-badge" alt="LLM" />
-  <img src="https://img.shields.io/badge/AI+Systems+Architecture-ec4899?style=for-the-badge" alt="AI" />
-  <img src="https://img.shields.io/badge/Cryptography+%26+Security-06b6d4?style=for-the-badge" alt="Crypto" />
-  <img src="https://img.shields.io/badge/Backend+Development-f59e0b?style=for-the-badge" alt="Backend" />
-  <img src="https://img.shields.io/badge/Full--Stack+Development-10b981?style=for-the-badge" alt="FullStack" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=awa-omg&theme=react-dark&color=7c3aed&line=ec4899&point=06b6d4&area=true&hide_border=true" alt="activity graph" width="100%" />
 </p>
 
----
+![divider](https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient:7c3aed,ec4899,06b6d4,f59e0b&section=header&reversal=false)
 
-<h2 align="center" style="color: #06b6d4;">Technical Stack</h2>
+<h2 align="center" style="color: #06b6d4;">Core Specializations</h2>
 
-<h3 align="center" style="color: #7c3aed;">Languages</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Large+Language+Models-7c3aed?style=for-the-badge&logo=openai&logoColor=white" alt="LLM" />
+  <img src="https://img.shields.io/badge/AI+Systems+Architecture-ec4899?style=for-the-badge&logo=brain&logoColor=white" alt="AI" />
+  <img src="https://img.shields.io/badge/Cryptography+%26+Security-06b6d4?style=for-the-badge&logo=lock&logoColor=white" alt="Crypto" />
+  <img src="https://img.shields.io/badge/Backend+Development-f59e0b?style=for-the-badge&logo=node.js&logoColor=white" alt="Backend" />
+  <img src="https://img.shields.io/badge/Full--Stack+Development-10b981?style=for-the-badge&logo=react&logoColor=white" alt="FullStack" />
+</p>
+
+![divider](https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient:7c3aed,ec4899,06b6d4,f59e0b&section=header&reversal=false)
+
+<h2 align="center" style="color: #7c3aed;">Technical Stack</h2>
+
+<p align="center">
+  <img src="awa_langs.png" alt="languages banner" width="80%" />
+</p>
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,typescript,rust,go,java,kotlin,bash&theme=dark" alt="languages" />
   </a>
+</p>
+
+<p align="center">
+  <img src="awa_skils.png" alt="skills banner" width="80%" />
 </p>
 
 <h3 align="center" style="color: #ec4899;">Web & Frameworks</h3>
@@ -94,9 +127,75 @@
   </a>
 </p>
 
----
+![divider](https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient:7c3aed,ec4899,06b6d4,f59e0b&section=header&reversal=false)
+
+<h2 align="center" style="color: #f59e0b;">Featured Projects</h2>
+
+<table align="center" width="95%">
+  <tr>
+    <td width="50%" style="padding: 10px; border: 1px solid #7c3aed; border-radius: 12px; background: rgba(124, 58, 237, 0.05);">
+      <h3 style="color: #7c3aed; margin-top: 0;">Koesu</h3>
+      <p style="color: #94a3b8; font-size: 14px;">Discord music bot with Dave and Lavalink support</p>
+      <p>
+        <img src="https://img.shields.io/badge/Makefile-7c3aed?style=flat-square" alt="Makefile" />
+        <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" alt="License" />
+      </p>
+      <a href="https://github.com/awa-omg/Koesu"><img src="https://img.shields.io/badge/View-Repository-181717?style=flat-square&logo=github" alt="View" /></a>
+    </td>
+    <td width="50%" style="padding: 10px; border: 1px solid #ec4899; border-radius: 12px; background: rgba(236, 72, 153, 0.05);">
+      <h3 style="color: #ec4899; margin-top: 0;">aguita.site</h3>
+      <p style="color: #94a3b8; font-size: 14px;">Personal website and portfolio</p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+      </p>
+      <a href="https://github.com/awa-omg/aguita.site"><img src="https://img.shields.io/badge/View-Repository-181717?style=flat-square&logo=github" alt="View" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" style="padding: 10px; border: 1px solid #06b6d4; border-radius: 12px; background: rgba(6, 182, 212, 0.05);">
+      <h3 style="color: #06b6d4; margin-top: 0;">bad-apple-git</h3>
+      <p style="color: #94a3b8; font-size: 14px;">Bad Apple .. in git commit history</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" alt="License" />
+      </p>
+      <a href="https://github.com/awa-omg/bad-apple-git"><img src="https://img.shields.io/badge/View-Repository-181717?style=flat-square&logo=github" alt="View" /></a>
+    </td>
+    <td width="50%" style="padding: 10px; border: 1px solid #f59e0b; border-radius: 12px; background: rgba(245, 158, 11, 0.05);">
+      <h3 style="color: #f59e0b; margin-top: 0;">bad-apple-tcp</h3>
+      <p style="color: #94a3b8; font-size: 14px;">Bad Apple terminal rendering over TCP</p>
+      <p>
+        <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" alt="C" />
+        <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" alt="License" />
+      </p>
+      <a href="https://github.com/awa-omg/bad-apple-tcp"><img src="https://img.shields.io/badge/View-Repository-181717?style=flat-square&logo=github" alt="View" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" style="padding: 10px; border: 1px solid #10b981; border-radius: 12px; background: rgba(16, 185, 129, 0.05);">
+      <h3 style="color: #10b981; margin-top: 0;">Doki-wiki</h3>
+      <p style="color: #94a3b8; font-size: 14px;">Doki container engine wiki documentation</p>
+      <p>
+        <img src="https://img.shields.io/badge/Documentation-7c3aed?style=flat-square" alt="Docs" />
+      </p>
+      <a href="https://github.com/awa-omg/Doki-wiki"><img src="https://img.shields.io/badge/View-Repository-181717?style=flat-square&logo=github" alt="View" /></a>
+    </td>
+    <td width="50%" style="padding: 10px; border: 1px solid #7c3aed; border-radius: 12px; background: rgba(124, 58, 237, 0.05);">
+      <h3 style="color: #7c3aed; margin-top: 0;">vulkan-apple</h3>
+      <p style="color: #94a3b8; font-size: 14px;">Vulkan graphics experiments</p>
+      <p>
+        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c++&logoColor=white" alt="C++" />
+      </p>
+      <a href="https://github.com/awa-omg/vulkan-apple"><img src="https://img.shields.io/badge/View-Repository-181717?style=flat-square&logo=github" alt="View" /></a>
+    </td>
+  </tr>
+</table>
+
+![divider](https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient:7c3aed,ec4899,06b6d4,f59e0b&section=header&reversal=false)
 
 <h2 align="center" style="color: #ec4899;">Now Vibing</h2>
+
+<h3 align="center" style="color: #7c3aed;">Featured Track</h3>
 
 <table align="center" width="60%">
   <tr>
@@ -115,20 +214,89 @@
   </tr>
 </table>
 
----
+<h3 align="center" style="color: #06b6d4;">Favorites Playlist</h3>
+
+<p align="center" style="color: #94a3b8; font-size: 14px;">Scroll to explore</p>
+
+<marquee behavior="scroll" direction="left" scrollamount="2" style="padding: 10px 0;">
+  <table style="border-collapse: separate; border-spacing: 16px;">
+    <tr>
+      <td style="border: 2px solid #7c3aed; border-radius: 12px; padding: 12px; background: rgba(124, 58, 237, 0.08); text-align: center; min-width: 180px;">
+        <a href="https://youtu.be/ZSBnCOGj2t4">
+          <img src="bakamitai.png" width="160" style="border-radius: 8px; box-shadow: 0 0 15px #7c3aed;" alt="Baka Mitai" />
+        </a>
+        <p style="margin-top: 8px; color: #e2e8f0; font-size: 14px;">
+          <strong style="color: #7c3aed;">Baka Mitai</strong><br />
+          <span style="color: #94a3b8; font-size: 12px;">Yakuza</span>
+        </p>
+      </td>
+      <td style="border: 2px solid #ec4899; border-radius: 12px; padding: 12px; background: rgba(236, 72, 153, 0.08); text-align: center; min-width: 180px;">
+        <a href="https://youtu.be/FtutLA63Cp8">
+          <img src="matryoshka.jpg" width="160" style="border-radius: 8px; box-shadow: 0 0 15px #ec4899;" alt="Bad Apple" />
+        </a>
+        <p style="margin-top: 8px; color: #e2e8f0; font-size: 14px;">
+          <strong style="color: #ec4899;">Bad Apple!!</strong><br />
+          <span style="color: #94a3b8; font-size: 12px;">Touhou Project</span>
+        </p>
+      </td>
+      <td style="border: 2px solid #06b6d4; border-radius: 12px; padding: 12px; background: rgba(6, 182, 212, 0.08); text-align: center; min-width: 180px;">
+        <a href="https://youtu.be/HOz-9FzIDf0">
+          <img src="matryoshka.jpg" width="160" style="border-radius: 8px; box-shadow: 0 0 15px #06b6d4;" alt="Matryoshka" />
+        </a>
+        <p style="margin-top: 8px; color: #e2e8f0; font-size: 14px;">
+          <strong style="color: #06b6d4;">Matryoshka</strong><br />
+          <span style="color: #94a3b8; font-size: 12px;">Hachi ft. Miku</span>
+        </p>
+      </td>
+      <td style="border: 2px solid #f59e0b; border-radius: 12px; padding: 12px; background: rgba(245, 158, 11, 0.08); text-align: center; min-width: 180px;">
+        <a href="https://youtu.be/uKxyLmbOc0Q">
+          <img src="seno.jpg" width="160" style="border-radius: 8px; box-shadow: 0 0 15px #f59e0b;" alt="Renai Circulation" />
+        </a>
+        <p style="margin-top: 8px; color: #e2e8f0; font-size: 14px;">
+          <strong style="color: #f59e0b;">Renai Circulation</strong><br />
+          <span style="color: #94a3b8; font-size: 12px;">Kana Hanazawa</span>
+        </p>
+      </td>
+      <td style="border: 2px solid #10b981; border-radius: 12px; padding: 12px; background: rgba(16, 185, 129, 0.08); text-align: center; min-width: 180px;">
+        <a href="https://youtu.be/6Q2KPtoQHMQ">
+          <img src="teto.jpg" width="160" style="border-radius: 8px; box-shadow: 0 0 15px #10b981;" alt="Medicine" />
+        </a>
+        <p style="margin-top: 8px; color: #e2e8f0; font-size: 14px;">
+          <strong style="color: #10b981;">Medicine</strong><br />
+          <span style="color: #94a3b8; font-size: 12px;">Kasane Teto</span>
+        </p>
+      </td>
+      <td style="border: 2px solid #7c3aed; border-radius: 12px; padding: 12px; background: rgba(124, 58, 237, 0.08); text-align: center; min-width: 180px;">
+        <a href="https://youtu.be/eSW2LVbPThw">
+          <img src="Rabbithole.jpg" width="160" style="border-radius: 8px; box-shadow: 0 0 15px #7c3aed;" alt="Rabbit Hole" />
+        </a>
+        <p style="margin-top: 8px; color: #e2e8f0; font-size: 14px;">
+          <strong style="color: #7c3aed;">Rabbit Hole</strong><br />
+          <span style="color: #94a3b8; font-size: 12px;">DECO*27</span>
+        </p>
+      </td>
+    </tr>
+  </table>
+</marquee>
+
+![divider](https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient:7c3aed,ec4899,06b6d4,f59e0b&section=header&reversal=false)
 
 <h2 align="center" style="color: #06b6d4;">Contact</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/opceanai@gmail.com-7c3aed?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  <img src="https://img.shields.io/badge/contact@opceanai.com-ec4899?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  <img src="https://img.shields.io/badge/aguitachan3@gmail.com-f59e0b?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:opceanai@gmail.com"><img src="https://img.shields.io/badge/opceanai@gmail.com-7c3aed?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:contact@opceanai.com"><img src="https://img.shields.io/badge/contact@opceanai.com-ec4899?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:aguitachan3@gmail.com"><img src="https://img.shields.io/badge/aguitachan3@gmail.com-f59e0b?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
----
+![divider](https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient:7c3aed,ec4899,06b6d4,f59e0b&section=header&reversal=false)
 
 <p align="center">
   <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="built with love" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-quotes.vercel.app/api?theme=dark&quote=Code%20is%20poetry.%20Logic%20is%20art.&layout=b" alt="quote" />
 </p>
 
 <p align="center" style="color: #7c3aed; font-size: 12px; margin-top: 20px;">
