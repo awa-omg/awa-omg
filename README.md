@@ -84,6 +84,12 @@
   <img src="https://github-profile-trophy.vercel.app/?username=awa-omg&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="trophies" width="100%" />
 </p>
 
+<h3 align="center" style="color: #06b6d4;">Full Metrics</h3>
+
+<p align="center">
+  <img src="metrics.svg" alt="github metrics" width="100%" />
+</p>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient:7c3aed,ec4899,06b6d4,f59e0b&section=header&reversal=false" alt="divider" />
 </p>
